@@ -1,2 +1,2 @@
 # github-actions
-Coiurs CI/CD
+Cours CI/CD
